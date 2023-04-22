@@ -1,2 +1,7 @@
 # CS-320-Software-Test-Automation-And-QA
 Repository for my SNHU CS-320: Software Test Automation and QA final project
+# Portfolio Reflection
+The best way to ensure that your code, program, or software is functional and secure is by rigorously testing it, there is no real substitution. With thorough testing you can catch many small problems that could snowball, effectively keeping the cost of fixing the problem low.
+The way I interpret user needs and incorporate them into a program is by translating them into software requirements. That way, it's much easier to make a set of guidelines to follow when actually developing the code for the program.
+I've only really needed to design software for school assignments, so my approach to designing software isn't the most applicable to a professional environment. I start by creating a list of software requirements and then developing the code for the program. I would then test the code to make sure the software fulfilled the requirements.
+In a more professional setting I would design software by following a more Agile approach. I would communicate with the client and assemble a list of software requirements, then start to develop the code while testing it concurrently. I would stay in contact with the client throughout the whole process to make sure the system remains what they wanted it to be, and then once the code is fully developed and tested, I would deploy the system or deliver it to the client. After that, I would continue to support the system if it was a piece of software that needed continued support.
